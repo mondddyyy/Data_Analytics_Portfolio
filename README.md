@@ -10,17 +10,17 @@ I am actively seeking opportunities to apply my knowledge to contribute to proje
 These projects showcases my ability to extract insights from data and present them in a clear, comprehensible and visually appealing way.
 
 ## Table of Contents
-- [About](https://github.com/mondddyyy/Data_Analytics_Portfolio/edit/main/README.md#about)
-- [Portfolio Projects](https://github.com/mondddyyy/Data_Analytics_Portfolio/edit/main/README.md#portfolio-projects)
+- [About](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#portfolio-projects)
   - Python
     - [Analysis restaurant dataset in Zomato application](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/Zomato%20Dataset.ipynb)
   - MySQL
     - [SF Salaries Data Exploration](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/Salaries.sql)
 
 
-- [Education](https://github.com/mondddyyy/Data_Analytics_Portfolio/edit/main/README.md#education)
-- [Licenses and Certifications](https://github.com/mondddyyy/Data_Analytics_Portfolio/edit/main/README.md#licensesandcertifications)
-- [Contact](https://github.com/mondddyyy/Data_Analytics_Portfolio/edit/main/README.md#contact)
+- [Education](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#education)
+- [Licenses and Certifications](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#licensesandcertifications)
+- [Contact](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#contact)
 
 ## Portfolio Projects
 Below is the list of projects overview
