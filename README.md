@@ -13,7 +13,7 @@ These projects showcases my ability to extract insights from data and present th
 - [About](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Analysis restaurant dataset in Zomato application](https://github.com/mondddyyy/Data_Analytics_Portfolio#analysis-restaurant-datasets-in-zomato-application)
+    - [Analysis restaurant dataset in Zomato application](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#analysis-restaurant-datasets-in-zomato-application)
   - MySQL
     - [SF Salaries Data Exploration](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#san-fransisco-data-exploration)
 
