@@ -19,7 +19,7 @@ These projects showcases my ability to extract insights from data and present th
 
 
 - [Education](https://github.com/mondddyyy/Data_Analytics_Portfolio/edit/main/README.md#education)
-- [Certificates](https://github.com/mondddyyy/Data_Analytics_Portfolio/edit/main/README.md#certificates)
+- [Licenses and Certifications](https://github.com/mondddyyy/Data_Analytics_Portfolio/edit/main/README.md#licensesandcertifications)
 - [Contact](https://github.com/mondddyyy/Data_Analytics_Portfolio/edit/main/README.md#contact)
 
 ## Portfolio Projects
@@ -54,7 +54,7 @@ Pacmann
 Non-degree programm, Data Analyst/Business Intelligence
 December 2021 - June 2022
 
-## Certificates
+## Licenses and Certifications
 - [Introduction to Python & Python for Software Engineering](https://sertifikat.pacmann.ai/zUbFnd6bcS0jEqB)
 - [Shell Tooling & SQL](https://sertifikat.pacmann.ai/hy6GH1yoH3L8aLB)
 - [Data Visualization for Analysis & Interactive Data Visualization](https://sertifikat.pacmann.ai/nvhQTVv1e6VkT5B)
