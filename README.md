@@ -19,7 +19,7 @@ These projects showcases my ability to extract insights from data and present th
 
 
 - [Education](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#education)
-- [Licenses and Certifications](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#licensesandcertifications)
+- [Licenses and Certifications](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#licenses-and-certifications)
 - [Contact](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#contact)
 
 ## Portfolio Projects
