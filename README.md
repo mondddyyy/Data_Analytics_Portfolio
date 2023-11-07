@@ -16,7 +16,7 @@ These projects showcases my ability to extract insights from data and present th
     - [Analysis restaurant dataset in Zomato application](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#analysis-restaurant-datasets-in-zomato-application)
   - MySQL
     - [SF Salaries Data Exploration](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#san-fransisco-data-exploration)
-    - [Air Quality and Water Pollution Analysis](url)
+    - [Air Quality and Water Pollution Analysis](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#air-quality-and-water-pollution-analysis)
 
 
 - [Education](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#education)
