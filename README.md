@@ -16,6 +16,7 @@ These projects showcases my ability to extract insights from data and present th
     - [Analysis restaurant dataset in Zomato application](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#analysis-restaurant-datasets-in-zomato-application)
   - MySQL
     - [SF Salaries Data Exploration](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#san-fransisco-data-exploration)
+    - [Air Quality and Water Pollution Analysis](url)
 
 
 - [Education](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/README.md#education)
@@ -42,6 +43,15 @@ Below is the list of projects overview
 **Goal:** To provide information regarding the distribution of employee salaries in San Framsisco based on job title in 2011 and extract insights on employee performance to identify improvements that can be implemented. 
 
 **Description:** The data is include base pay, overtime pay, total pay and benefits of each employee. This analysis is about how the San Fransisco employee salaries distribution in 2011.
+
+**Skills:** Data Query Language, Aggregate Function, Data Definition Language, Data Manipulation Language
+
+## Air Quality and Water Pollution Analysis
+**Code:** [`Air Quality and Water Pollution Analysis`](https://github.com/mondddyyy/Data_Analytics_Portfolio/blob/main/Air%20Quality%20and%20Water%20Pollution%20Analysis.sql)
+
+**Goal:** To record the concetration levels of atmospheric pollutants in order to define air quality and water pollution levels and establish action plans if high levels of contamination are detected
+
+**Description:** The data is consist of air quality and water pollution level from many cities in many region and many countries.
 
 **Skills:** Data Query Language, Aggregate Function, Data Definition Language, Data Manipulation Language
 
